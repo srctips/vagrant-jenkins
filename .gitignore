@@ -36,6 +36,7 @@ build/
 
 # Vagrant
 .vagrant
+*.box
 
 # Git
 *.orig
